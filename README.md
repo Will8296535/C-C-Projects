@@ -1,4 +1,4 @@
-# C-C-Projects
+# C-C++Projects
 
 Socket-based TCP/IP communications chat program
 Language: C. System: Linux
