@@ -1,0 +1,21 @@
+C:\Users\79381\source\repos\Assignment05\TCPIPServer\bin\Debug\TCPIPServer.exe.config
+C:\Users\79381\source\repos\Assignment05\TCPIPServer\bin\Debug\TCPIPServer.exe
+C:\Users\79381\source\repos\Assignment05\TCPIPServer\bin\Debug\TCPIPServer.pdb
+C:\Users\79381\source\repos\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.csprojAssemblyReference.cache
+C:\Users\79381\source\repos\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.csproj.CoreCompileInputs.cache
+C:\Users\79381\source\repos\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.exe
+C:\Users\79381\source\repos\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.pdb
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\bin\Debug\TCPIPServer.exe.config
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\bin\Debug\TCPIPServer.exe
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\bin\Debug\TCPIPServer.pdb
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.csprojAssemblyReference.cache
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.csproj.CoreCompileInputs.cache
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.exe
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.pdb
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\bin\Debug\TCPIPServer.exe.config
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\bin\Debug\TCPIPServer.exe
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\bin\Debug\TCPIPServer.pdb
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.csprojAssemblyReference.cache
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.csproj.CoreCompileInputs.cache
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.exe
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\TCPIPServer\obj\Debug\TCPIPServer.pdb

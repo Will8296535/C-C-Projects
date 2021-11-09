@@ -1,0 +1,45 @@
+C:\Users\79381\source\repos\Assignment05\Assignment05\bin\Debug\Assignment05.exe.config
+C:\Users\79381\source\repos\Assignment05\Assignment05\bin\Debug\Assignment05.exe
+C:\Users\79381\source\repos\Assignment05\Assignment05\bin\Debug\Assignment05.pdb
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\TCPIPClient.csprojAssemblyReference.cache
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\MainWindow.g.cs
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\App.g.cs
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\Assignment05_MarkupCompile.cache
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\Assignment05_MarkupCompile.lref
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\MainWindow.baml
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\Assignment05.g.resources
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\Assignment05.Properties.Resources.resources
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\TCPIPClient.csproj.GenerateResource.cache
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\TCPIPClient.csproj.CoreCompileInputs.cache
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\Assignment05.exe
+C:\Users\79381\source\repos\Assignment05\Assignment05\obj\Debug\Assignment05.pdb
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\bin\Debug\Assignment05.exe.config
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\bin\Debug\Assignment05.exe
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\bin\Debug\Assignment05.pdb
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\TCPIPClient.csprojAssemblyReference.cache
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\MainWindow.g.cs
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\App.g.cs
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05_MarkupCompile.cache
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05_MarkupCompile.lref
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\MainWindow.baml
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05.g.resources
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05.Properties.Resources.resources
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\TCPIPClient.csproj.GenerateResource.cache
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\TCPIPClient.csproj.CoreCompileInputs.cache
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05.exe
+D:\SET Level 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05.pdb
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\bin\Debug\Assignment05.exe.config
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\bin\Debug\Assignment05.exe
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\bin\Debug\Assignment05.pdb
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\TCPIPClient.csprojAssemblyReference.cache
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\MainWindow.g.cs
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\App.g.cs
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05_MarkupCompile.cache
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05_MarkupCompile.lref
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\MainWindow.baml
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05.g.resources
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05.Properties.Resources.resources
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\TCPIPClient.csproj.GenerateResource.cache
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\TCPIPClient.csproj.CoreCompileInputs.cache
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05.exe
+D:\SETLevel 3\Homework\Windows and Mobile Programming\Assignment05\Assignment05\obj\Debug\Assignment05.pdb
