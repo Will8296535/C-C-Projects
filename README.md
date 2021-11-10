@@ -7,3 +7,8 @@ This is a chat program to demonstrate the basics of socket-based TCP/IP communic
 Chat system that using C# to program<br>
 Language: C#. System: Windows<br>
 This is a chat system based on TCP/IP protocol that allow multiple users to talk to each other. The system is using WPF solution for client program and a Console application for the Chat server. The Chat Server is written as a multi-threaded listener and every person in the chat can end the chat session gracefully.<br>
+<br>
+Trivia game using Relational Database<br>
+Language: C#. System: Windows<br>
+This is a survey tool with some gamified aspects. The user will provide a name then he is presented with a set of questions (one at a time) and multiple choice answers, only one of which is correct. This application is using MySql database and use the .NET connector for MySQL and write in C#.<br>
+<br>
